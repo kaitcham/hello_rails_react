@@ -12,6 +12,8 @@ Theis app is built in order to implement a connection between a Ruby on Rails ba
 `bundle install`
 - Setup database
 `rails db:reset`
+-Database data
+`rails db:seed`
 
 
 ## Built With
